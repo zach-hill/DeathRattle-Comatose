@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ArtificialComa.label>仮死状態</ArtificialComa.label>
+  <ArtificialComa.stages.1.label>危険</ArtificialComa.stages.1.label>
+  <ArtificialComa.stages.2.label>生命の危機</ArtificialComa.stages.2.label>
+
+</LanguageData>

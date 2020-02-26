@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IntestinalFailure.label>fallo intestinal</IntestinalFailure.label>
+  <IntestinalFailure.stages.neardeath.label>cercano a la muerte</IntestinalFailure.stages.neardeath.label>
+
+  <LiverFailure.label>insuficiencia hepática aguda</LiverFailure.label>
+  <LiverFailure.stages.neardeath.label>cercano a la muerte</LiverFailure.stages.neardeath.label>
+
+  <KidneyFailure.label>insuficiencia renal aguda</KidneyFailure.label>
+  <KidneyFailure.stages.neardeath.label>cercano a la muerte</KidneyFailure.stages.neardeath.label>
+
+  <ClinicalDeathNoHeartbeat.label>sin pulso</ClinicalDeathNoHeartbeat.label>
+  <ClinicalDeathNoHeartbeat.stages.clinical_death.label>muerte clínica</ClinicalDeathNoHeartbeat.stages.clinical_death.label>
+
+  <ClinicalDeathAsphyxiation.label>privación de oxígeno</ClinicalDeathAsphyxiation.label>
+  <ClinicalDeathAsphyxiation.stages.clinical_death.label>muerte clínica</ClinicalDeathAsphyxiation.stages.clinical_death.label>
+
+  <Coma.label>coma</Coma.label>
+  <BrainDamage.label>daño cerebral</BrainDamage.label>
+  <SevereBrainDamage.label>daño cerebral grave</SevereBrainDamage.label>
+  <VegetativeState.label>estado vegetativo</VegetativeState.label>
+
+</LanguageData>

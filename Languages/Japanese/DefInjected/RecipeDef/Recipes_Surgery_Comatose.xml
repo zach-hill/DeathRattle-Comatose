@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Anesthetize -->
+
+  <ArtificialComa.label>仮死状態</ArtificialComa.label>
+  <ArtificialComa.description>仮死化ドラッグを投与することによって、無意識の状態にして生命体を仮死状態にして生き延びる時間を与えます。仮死状態を覚醒させて意識を元に戻すには、大量の「ウェークアップ(WakeUp)ドラッグ」が必要になります！</ArtificialComa.description>
+  <ArtificialComa.jobString>仮死状態にしている</ArtificialComa.jobString>
+
+
+</LanguageData>
