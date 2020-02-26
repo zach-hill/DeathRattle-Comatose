@@ -7,6 +7,16 @@
 		<li>1.1</li>
 	</supportedVersions>
 	<packageId>Proximo.DeathRattleComatose</packageId>
+	<modDependencies>
+		<li>
+			<packageId>Linq.DeathRattle</packageId>
+			<displayName>DeathRattle</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/1552452572</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Linq.DeathRattle</li>
+	</loadAfter>
 	<description>
 This addon to Death Rattle contains new featurs and compatibelity patches for Death Rattle.
 It requires the installation of Death Rattle as base and extends/changes some functionality as documented below.
